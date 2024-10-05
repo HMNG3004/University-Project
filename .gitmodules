@@ -1,0 +1,6 @@
+[submodule "Real-Estate-Auction-Platform"]
+	path = Real-Estate-Auction-Platform
+	url = https://github.com/HMNG3004/Real-Estate-Auction-Platform.git
+[submodule "Hostel-Rental-Platform"]
+	path = Hostel-Rental-Platform
+	url = https://github.com/HMNG3004/Hostel-Rental-Platform.git
